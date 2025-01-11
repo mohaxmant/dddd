@@ -1,0 +1,32 @@
+body {
+    font-family: sans-serif;
+}
+header {
+    background-color: green;
+}
+
+.cc {
+    
+    width: 250px;
+    height: 150px;
+}
+.ip{
+    width:250px ;
+    height: 150px;
+    padding:0px 90px ;
+
+}
+.box{
+    width: 50px;
+    height:50px;
+}
+.ed{
+    font-size: 30px;
+}
+.rt{
+    margin: 19px;
+    height: 120px;
+}
+footer{
+    background-color: blue;
+}
